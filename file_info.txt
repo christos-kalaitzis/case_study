@@ -1,0 +1,3 @@
+model1.ipynb and model2.ipynb are the 2 notebooks that walk through the two models.
+model1*.py and model2*.py contain the source codes for the respective models
+report.pdf just contains a brief overview of the models
